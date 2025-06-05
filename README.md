@@ -12,3 +12,5 @@
 3. *trzy*
 
 # modyfikacja w readme
+
+# znowu jakas zmiana
